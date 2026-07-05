@@ -1,0 +1,62 @@
+06.15 6:34 AM
+Student_ID,Name,Age,Gender,Department,Study_Hours_Per_Day,Attendance_Percentage,Assignments_Completed,Midterm_Score,Final_Score,Projects_Score,Extra_Curricular,Internet_Access,Family_Income,Parent_Education,Sleep_Hours,Stress_Level,Final_Grade
+S001,Alice Johnson,20,Female,Computer Science,6,92,18,78,82,88,Yes,Yes,High,Graduate,7,Low,A
+S002,Bob Smith,21,Male,Mathematics,4,85,15,65,70,72,No,Yes,Medium,Undergraduate,6,Medium,B
+S003,Carol White,19,Female,Physics,7,95,20,88,91,90,Yes,Yes,High,Graduate,8,Low,A
+S004,David Brown,22,Male,Chemistry,3,70,12,55,58,60,No,No,Low,High School,5,High,C
+S005,Emma Davis,20,Female,Computer Science,5,88,17,75,79,80,Yes,Yes,Medium,Graduate,7,Low,B
+S006,Frank Miller,23,Male,Mathematics,2,65,10,45,50,48,No,No,Low,High School,4,High,D
+S007,Grace Wilson,21,Female,Physics,6,90,19,82,85,87,Yes,Yes,High,Graduate,7,Low,A
+S008,Henry Moore,20,Male,Chemistry,4,80,14,68,72,70,No,Yes,Medium,Undergraduate,6,Medium,B
+S009,Isabella Taylor,19,Female,Computer Science,7,96,20,90,93,92,Yes,Yes,High,Graduate,8,Low,A
+S010,James Anderson,22,Male,Mathematics,3,75,13,60,63,65,No,No,Low,High School,5,High,C
+S011,Karen Thomas,20,Female,Physics,5,87,16,77,80,78,Yes,Yes,Medium,Undergraduate,7,Medium,B
+S012,Liam Jackson,21,Male,Chemistry,6,91,18,80,84,83,Yes,Yes,High,Graduate,7,Low,A
+S013,Mia Harris,19,Female,Computer Science,4,82,15,70,74,72,No,Yes,Medium,Undergraduate,6,Medium,B
+S014,Noah Martin,23,Male,Mathematics,2,60,9,40,45,43,No,No,Low,High School,4,High,F
+S015,Olivia Garcia,20,Female,Physics,7,94,20,87,90,89,Yes,Yes,High,Graduate,8,Low,A
+S016,Peter Martinez,22,Male,Chemistry,3,72,11,52,56,54,No,No,Low,High School,5,High,C
+S017,Quinn Robinson,21,Female,Computer Science,5,86,17,74,78,76,Yes,Yes,Medium,Graduate,7,Low,B
+S018,Ryan Clark,20,Male,Mathematics,4,83,14,66,70,68,No,Yes,Medium,Undergraduate,6,Medium,B
+S019,Sophia Rodriguez,19,Female,Physics,6,89,18,81,85,84,Yes,Yes,High,Graduate,7,Low,A
+S020,Tyler Lewis,22,Male,Chemistry,2,68,10,48,52,50,No,No,Low,High School,4,High,D
+S021,Uma Lee,20,Female,Computer Science,7,97,20,92,95,94,Yes,Yes,High,Graduate,8,Low,A
+S022,Victor Walker,21,Male,Mathematics,3,74,12,58,62,60,No,No,Low,High School,5,High,C
+S023,Wendy Hall,19,Female,Physics,5,85,16,73,77,75,Yes,Yes,Medium,Undergraduate,6,Medium,B
+S024,Xander Allen,23,Male,Chemistry,6,93,19,83,87,86,Yes,Yes,High,Graduate,7,Low,A
+S025,Yara Young,20,Female,Computer Science,4,79,14,64,68,66,No,Yes,Medium,Undergraduate,6,Medium,B
+S026,Zack King,22,Male,Mathematics,2,62,9,42,46,44,No,No,Low,High School,4,High,F
+S027,Amy Scott,21,Female,Physics,7,95,20,89,92,91,Yes,Yes,High,Graduate,8,Low,A
+S028,Brian Green,20,Male,Chemistry,4,81,15,69,73,71,No,Yes,Medium,Undergraduate,6,Medium,B
+S029,Cindy Baker,19,Female,Computer Science,6,90,18,79,83,82,Yes,Yes,High,Graduate,7,Low,A
+S030,Daniel Adams,22,Male,Mathematics,3,73,11,54,57,56,No,No,Low,High School,5,High,C
+S031,Elena Nelson,20,Female,Physics,5,86,17,76,80,78,Yes,Yes,Medium,Graduate,7,Low,B
+S032,Felix Carter,21,Male,Chemistry,2,66,10,46,50,48,No,No,Low,High School,4,High,D
+S033,Gloria Mitchell,19,Female,Computer Science,7,98,20,93,96,95,Yes,Yes,High,Graduate,8,Low,A
+S034,Hector Perez,23,Male,Mathematics,4,84,15,67,71,69,No,Yes,Medium,Undergraduate,6,Medium,B
+S035,Iris Roberts,20,Female,Physics,6,91,18,82,86,85,Yes,Yes,High,Graduate,7,Low,A
+S036,Jack Turner,22,Male,Chemistry,3,71,11,51,55,53,No,No,Low,High School,5,High,C
+S037,Julia Phillips,21,Female,Computer Science,5,87,17,75,79,77,Yes,Yes,Medium,Graduate,7,Low,B
+S038,Kevin Campbell,20,Male,Mathematics,4,82,14,65,69,67,No,Yes,Medium,Undergraduate,6,Medium,B
+S039,Laura Parker,19,Female,Physics,7,96,20,90,93,92,Yes,Yes,High,Graduate,8,Low,A
+S040,Marcus Evans,22,Male,Chemistry,2,67,9,44,48,46,No,No,Low,High School,4,High,F
+S041,Nancy Edwards,20,Female,Computer Science,6,92,19,81,85,84,Yes,Yes,High,Graduate,7,Low,A
+S042,Oscar Collins,21,Male,Mathematics,3,76,12,59,63,61,No,No,Low,High School,5,High,C
+S043,Paula Stewart,19,Female,Physics,5,85,16,74,78,76,Yes,Yes,Medium,Undergraduate,6,Medium,B
+S044,Quincy Sanchez,23,Male,Chemistry,7,94,20,86,90,89,Yes,Yes,High,Graduate,8,Low,A
+S045,Rachel Morris,20,Female,Computer Science,4,80,14,66,70,68,No,Yes,Medium,Undergraduate,6,Medium,B
+S046,Samuel Rogers,22,Male,Mathematics,2,63,9,41,45,43,No,No,Low,High School,4,High,F
+S047,Tina Reed,21,Female,Physics,6,89,18,80,84,83,Yes,Yes,High,Graduate,7,Low,A
+S048,Umar Cook,20,Male,Chemistry,4,83,15,68,72,70,No,Yes,Medium,Undergraduate,6,Medium,B
+S049,Vera Morgan,19,Female,Computer Science,7,97,20,91,94,93,Yes,Yes,High,Graduate,8,Low,A
+S050,Walter Bell,22,Male,Mathematics,3,74,11,55,59,57,No,No,Low,High School,5,High,C
+S051,Xena Murphy,20,Female,Physics,5,86,17,77,81,79,Yes,Yes,Medium,Graduate,7,Low,B
+S052,Yusuf Bailey,21,Male,Chemistry,2,65,10,45,49,47,No,No,Low,High School,4,High,D
+S053,Zara Rivera,19,Female,Computer Science,6,91,19,82,86,85,Yes,Yes,High,Graduate,7,Low,A
+S054,Aaron Cooper,23,Male,Mathematics,4,85,15,68,72,70,No,Yes,Medium,Undergraduate,6,Medium,B
+S055,Beth Richardson,20,Female,Physics,7,95,20,88,92,91,Yes,Yes,High,Graduate,8,Low,A
+S056,Carlos Cox,22,Male,Chemistry,3,70,11,50,54,52,No,No,Low,High School,5,High,C
+S057,Diana Howard,21,Female,Computer Science,5,87,17,76,80,78,Yes,Yes,Medium,Graduate,7,Low,B
+S058,Ethan Ward,20,Male,Mathematics,4,81,14,64,68,66,No,Yes,Medium,Undergraduate,6,Medium,B
+S059,Fiona Torres,19,Female,Physics,6,90,18,83,87,86,Yes,Yes,High,Graduate,7,Low,A
+S060,George Peterson,22,Male,Chemistry,2,64,9,43,47,45,No,No,Low,High School,4,High,F
